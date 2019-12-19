@@ -1,0 +1,70 @@
+{
+    "name": "Placecast",
+    "description": "Discover the difference of carrier-validation in your programmatic mobile advertising. Ericsson Emodo's Ad Stack lets advertisers use existing demand platforms and reach audiences in an efficient, privacy-compliant manner.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/459-placecast.jpg",
+    "tags": [
+        "have api",
+        "locations",
+        "places",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/placecast\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Placecast",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/459-placecast.jpg",
+            "humanURL": "http:\/\/placecast.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/placecast-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.placecast.net\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.placecast.net\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/placecast"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/placecast.net\/developer\/documentation_api.html"
+        },
+        {
+            "type": "Email",
+            "url": "info@ericsson-emodo.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@ericsson-emodo.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ericssonemodo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/placecast"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/placecast.net"
+        }
+    ]
+}
